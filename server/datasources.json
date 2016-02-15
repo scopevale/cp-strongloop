@@ -1,0 +1,8 @@
+{
+  "db": {
+    "url": "mongodb://cp-user:acRxOITN7En2@ds039484.mongolab.com:39484/carpers-paradise",
+    "name": "db",
+    "connector": "memory",
+    "user": "cp-user"
+  }
+}
